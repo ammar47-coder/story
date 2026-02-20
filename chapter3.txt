@@ -1,1 +1,7 @@
 I was in the times of capitalizm , i was in the time of Socializm.
+git init // to install git in current running directory
+git status // check status__if a new file is added or modified or not added yet
+git add <fileName> // add a file to stagging area 
+git add . // add multiple files to stagging area at once 
+git commit -m "<commit message>" // uploads file on github with a message
+git log // gives information about the commited file..
