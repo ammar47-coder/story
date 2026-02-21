@@ -1,0 +1,7 @@
+HI there it is Muhammad Ammar learning gitHub..
+Topic: "Branching"
+git branch <branch-name> // To create a new branch
+git branch // to check current working branch
+git checkout <branch-name> // to move to a specific branch
+git merge <branch-name>  // to merge branch to the main branch but it is  
+// necessary that you  should be in the main branch first...
